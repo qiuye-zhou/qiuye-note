@@ -7,7 +7,7 @@ const __dirname = getDirname(import.meta.url)
 export default defineUserConfig({
   lang: 'zh-CN',
   title: "秋叶 Notebook",
-  description: '我的全部学习笔记，涉及计算机基础、各种语言、规范、数据库，不过完全就是随缘写的。',
+  description: '这是一个小白学习历程中的记录，涉及各种语言、规范、计算机基础、数据库，不过完全就是随缘写的。',
   head: [
     ['link', { rel: 'icon', href: '/qiuye.jpg' }],
   ],
@@ -29,7 +29,10 @@ export default defineUserConfig({
     ],
     sidebar: {
         // SidebarItem
+        '/CSS/': sidebars,
         '/Vue/': sidebars,
+        '/Typescript/': sidebars,
+        '/Database/': sidebars,
       },
   }),
   alias: {

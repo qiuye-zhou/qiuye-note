@@ -4,19 +4,17 @@ home: true
 title: 秋叶
 description: 秋叶页面的描述
 sidebar: false
-heroText: '秋叶的note'
+heroText: '秋叶的Notebook'
 actions:
   - text: Get Started
-    link: /Vue/第一个note.md
+    link: /CSS/css_specificityql.md
     type: primary
-  - text: View on GitHub
-    link: https://github.com/qiuye-zhou
-    type: secondary
 features:
-  - title: 简洁至上
-    details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。其他内容、其他内容
-  - title: Vue 驱动
-    details: 享受 Vue 的开发体验，可以在 Markdown 中使用 Vue 组件，又可以使用 Vue 来开发自定义主题。
-  - title: 高性能
-    details: VuePress 会为每个页面预渲染生成静态的 HTML，同时，每个页面被加载的时候，将作为 SPA 运行。
+  - title: 快速查阅
+    details: 通过多级目录快速索引到想要的信息
+  - title: 优雅样式
+    details: 看起来赏心悦目，读起来逻辑清晰
+  - title: 日积月累
+    details: 不积跬步，无以至千里
+footer: 如果你热爱生活就不要浪费时间，因为时间组成了生活。
 ---
