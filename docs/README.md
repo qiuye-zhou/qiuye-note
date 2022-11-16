@@ -7,7 +7,7 @@ sidebar: false
 heroText: '秋叶的Notebook'
 actions:
   - text: Get Started
-    link: /CSS/css_specificityql.md
+    link: /preface/index.md
     type: primary
 features:
   - title: 快速查阅

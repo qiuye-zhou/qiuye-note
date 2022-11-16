@@ -6,7 +6,7 @@ description: Msqyl
 # Mysql
 
 ##### 最大连接数
-查看最大连接数**show variables like "max_connections";**
+查看最大连接数`show variables like "max_connections";`
 
 ```ini
 # 设置最大连接数

@@ -1,6 +1,13 @@
 export const sidebars = [
     // SidebarItem
     {
+      text: '前言',
+      collapsible: true,
+      children: [
+        '/preface/index.md', 
+      ],
+    },
+    {
       text: 'CSS',
       collapsible: true,
       children: [
@@ -22,7 +29,7 @@ export const sidebars = [
       ],
     },
     {
-      text: 'Database',
+      text: '数据库',
       collapsible: true,
       children: [
         '/Database/Mysql.md', 

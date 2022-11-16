@@ -29,6 +29,7 @@ export default defineUserConfig({
     ],
     sidebar: {
         // SidebarItem
+        '/preface/': sidebars,
         '/CSS/': sidebars,
         '/Vue/': sidebars,
         '/Typescript/': sidebars,
