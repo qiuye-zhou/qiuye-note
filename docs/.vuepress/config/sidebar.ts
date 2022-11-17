@@ -33,6 +33,7 @@ export const sidebars = [
       collapsible: true,
       children: [
         '/Database/Mysql.md', 
+        '/Database/Redis.md', 
       ],
     },
   ]
