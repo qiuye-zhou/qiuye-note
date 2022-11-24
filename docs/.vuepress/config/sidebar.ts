@@ -36,4 +36,11 @@ export const sidebars = [
         '/Database/Redis.md', 
       ],
     },
+    {
+      text: '其他好文章',
+      collapsible: true,
+      children: [
+        '/article/工程化.md', 
+      ],
+    },
   ]

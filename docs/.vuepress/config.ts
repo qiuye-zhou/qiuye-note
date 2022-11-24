@@ -34,6 +34,7 @@ export default defineUserConfig({
         '/Vue/': sidebars,
         '/Typescript/': sidebars,
         '/Database/': sidebars,
+        '/article/': sidebars,
       },
   }),
   alias: {
