@@ -15,6 +15,13 @@ export const sidebars = [
       ],
     },
     {
+      text: 'JavaScript',
+      collapsible: true,
+      children: [
+        '/JavaScript/有趣的.md', 
+      ],
+    },
+    {
       text: 'Vue',
       collapsible: true,
       children: [
