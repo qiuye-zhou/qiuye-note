@@ -12,13 +12,14 @@ export const sidebars = [
       collapsible: true,
       children: [
         '/CSS/css_specificityql.md', 
+        '/CSS/css函数.md'
       ],
     },
     {
       text: 'JavaScript',
       collapsible: true,
       children: [
-        '/JavaScript/有趣的.md', 
+        '/JavaScript/数据类型.md', 
       ],
     },
     {
